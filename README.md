@@ -51,7 +51,7 @@ Repositório pessoal de Felipe, aluno da Turma 2DA 2025 do SESI SENAI. Aqui comp
 </div>
 
 
-## 📊 Estatísticas da Turma
+## 📊 Minhas Estatísticas
 
 <div align="center">
   
