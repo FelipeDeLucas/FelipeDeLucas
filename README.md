@@ -1,6 +1,6 @@
 # FelipeDeLucasMarçal
 Olá, esse é o meu perfil para os meus trabalhos e habilidades.
-# 🚀 Turma 2DA 2025 - SESI SENAI
+# 🚀 Turma 2DA 2025 - SESI SENAI - DEV
 
 <div align="center">
   
