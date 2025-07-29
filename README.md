@@ -67,6 +67,7 @@ Repositório pessoal de Felipe, aluno da Turma 2DA 2025 do SESI SENAI. Aqui comp
   **🌟 Desenvolvido com 💜 por Felipe De Lucas Marçal**
   
   *"Educação para a vida, tecnologia para o futuro!"*
+</div>
 
    ##
  
@@ -74,9 +75,6 @@ Repositório pessoal de Felipe, aluno da Turma 2DA 2025 do SESI SENAI. Aqui comp
   <a href="https://www.instagram.com/felipe.slii?igsh=MndhOHU2OXJndmZk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:fmarcal961@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-de-lucas-marçal-1917ab377" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=100&section=footer)
 
 </div>
+
