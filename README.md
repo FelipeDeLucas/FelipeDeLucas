@@ -4,7 +4,7 @@ Olá, esse é o meu perfil para os meus trabalhos e habilidades.
 
 <div align="center">
   
-  ![Coding](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B35&center=true&vCenter=true&width=940&lines=Bem-vindos+ao+Meu+GitHub!;Felipe+SENAI+SESI+2025+Fullstack+Dev+Explorando+IA+e+Segurança+Digital!)
+  ![Coding](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B35&center=true&vCenter=true&width=940&lines=Bem-vindos+ao+Meu+GitHub!;Fullstack+Dev+Explorando+IA+e+Segurança+Digital!)
   
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
   
