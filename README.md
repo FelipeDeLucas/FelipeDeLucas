@@ -18,7 +18,7 @@ Olá, esse é o meu perfil para os meus trabalhos e habilidades.
 
 ## 🎯 Sobre Meu Repositório
 
-Repositório pessoal de Felipe, aluno da Turma 2DA 2025 do SESI SENAI. Aqui compartilho minha jornada no desenvolvimento Fullstack, com projetos práticos que vão dos fundamentos da programação até aplicações completas usando tecnologias modernas. Este espaço reflete meu aprendizado contínuo, minha curiosidade e meu compromisso em evoluir como desenvolvedor.
+Repositório pessoal de Felipe. Aqui compartilho minha jornada no desenvolvimento Fullstack, com projetos práticos que vão dos fundamentos da programação até aplicações completas usando tecnologias modernas. Este espaço reflete meu aprendizado contínuo, minha curiosidade e meu compromisso em evoluir como desenvolvedor.
 
 ## 🛠️ Meu Stack Tecnológica
 
