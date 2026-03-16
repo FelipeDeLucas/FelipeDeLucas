@@ -1,6 +1,6 @@
 # FelipeDeLucasMarçal
 Olá, esse é o meu perfil para os meus trabalhos e habilidades.
-# 🚀 Turma 2DA 2025 - SESI SENAI - DEV
+
 
 <div align="center">
   
@@ -66,7 +66,7 @@ Repositório pessoal de Felipe, aluno da Turma 2DA 2025 do SESI SENAI. Aqui comp
   
   **🌟 Desenvolvido com 💜 por Felipe De Lucas Marçal**
   
-  *"Educação para a vida, tecnologia para o futuro!"*
+ 
 </div>
 
    ##
